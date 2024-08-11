@@ -24,14 +24,8 @@ details > summary {
 
 <hr text-align="center" class="solid" width="100%">
 
-- Quantitative Dynamic Macroeconomics [with Konstantin Gantert] (2023 - present), Ba. in Economics
+- Statistics 2 [with Christoph Walsh] (2023 - present), BSc International Business Administration
+
+- Data Science Methods [with Otilia Boldea] (2023 - present), MSc Econometrics and Mathematical Economics
 
 </br></br>
-
-## Past teaching assistant, Universidade de Brasília
-
-<hr text-align="center" class="solid" width="100%">
-
-- Topics in Macroeconomics[with Marina Delmondes de Carvalho Rossi] (2021), RM Economics
-
-- Macroeconomics 2 [with Marina Delmondes de Carvalho Rossi] (2021), Ba. in Economics
