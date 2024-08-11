@@ -1,0 +1,57 @@
+<!-- TEACHING PAGE -->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Script that allows markdown texts to be edited -->
+        <script src="/js/zero-md-config.js" ></script>
+        <!-- Library that allows markdown texts to be embedded -->
+        <script type="module" src="/js/lib/zero-md.min.js"></script>
+        <!-- Title of the tab in the browser -->
+        <title>Túlio Bouzas' Teaching</title>
+        <!-- Description -->
+        <meta name="description" content="Delve into Túlio Bouzas' teaching and courses delivered at Tilburg University and elsewhere, reflecting a commitment to fostering understanding in macroeconomics and monetary theory.">
+        <!-- My custom theme -->
+        <link rel="stylesheet" href="/style/global.css">
+        <!-- Page icon -->
+        <link rel="shortcut icon" type="image/png" href="/style/icons/icon.png" />
+        </head> 
+        
+        <!-- Actual page -->
+        <body>
+        
+            <!-- Heading: Navigation bar, cover and title -->
+            <div class="header">
+                <div class="site">Túlio Bouzas</div>
+                <div id="navbar-placeholder">
+                    <div class="navbar">
+                        <a href="index.html" class="navbar-link">Home</a>
+                        <a href="/files/cv.pdf" class="navbar-link">CV</a>
+                        <a href="research.html" class="navbar-link">Research</a>
+                        <a href="teaching.html" class="navbar-link navbar-active">Teaching</a>
+                    </div>
+                </div>
+                <div class="title">Teaching</div>
+                <hr class="solid" style="width:calc(0.8*var(--title-bar))"> 
+            </div>
+
+            <!-- Theme line-->
+            <div class="line" style="color:var(--light-color)"></div>
+        
+            <!-- Contents -->
+            <div class="main">
+               <div class="info">
+                    <zero-md class="markdown-font" src="/pages/teaching.md"> </zero-md>
+                </div>
+            </div>
+    
+            <!-- Footer-->
+            <div id="footer-placeholder">
+                <!-- Script that imports the footer -->
+                <script src="/js/footer.js"></script>
+            </div>
+        
+        </body>
+        </html>
