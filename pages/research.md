@@ -31,6 +31,9 @@ details > summary {
 
 **Estimating block-triangular DSGE model for the US** [with Jeffrey Campbell] (2024).
 
+<details class="research-links"> <summary> Abstract </summary> This paper builds a simple dynamic stochastic general equilibrium (DSGE) model with distortionary mark-ups. Under non-separable log utility of consumption and hours work, Cobb-Douglas capital accumulation and production functions the standard Euler equation reduces to a difference equation in the aggregate savings rate influenced by the evolution of Mark-ups. We use the model to build and identify a block-triangular VAR of the United States economy based of NIPA accounts that demonstrates the importance of the saving rates as one of key macroeconomic variables that guides the evolution of the US economy.
+ </details>
+
 </br>
 
 **New-Keynesian capital gaps** [with Jeffrey Campbell] (2024).
