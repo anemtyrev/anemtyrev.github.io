@@ -3,7 +3,7 @@
 :root {
     --primary-text-color: #fa0404;
     --body-font: 'Georgia', serif;
-    --body-font-size: 20px;
+    --body-font-size: 16px;
     --title-font: Georgia;
     --body-color: #313131;
     --link-color: rgb(68, 125, 190); 
@@ -106,7 +106,7 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
 a { color: var(--link-color); text-decoration: underline }
 
 /* Smaller screens */
-@media (max-width: 1300px) {
+@media (max-width: 800px) {
     
     .header {flex: 1 auto;}
 
@@ -134,7 +134,7 @@ a { color: var(--link-color); text-decoration: underline }
   }
 
   /* Tablet screens */
-  @media (min-width: 1301px) and (max-width: 1600px) {
+  @media (min-width: 801px) and (max-width: 1600px) {
     
     .main { max-width: 80%; } /* min-height: 60vh; */
 
