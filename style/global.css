@@ -106,7 +106,7 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
 a { color: var(--link-color); text-decoration: underline }
 
 /* Smaller screens */
-@media (max-width: 400px) {
+@media (max-width: 450px) {
     
     .header {flex: 1 auto;}
 
@@ -134,7 +134,7 @@ a { color: var(--link-color); text-decoration: underline }
   }
 
 /* Smaller screens */
-@media (min-width: 401px) and (max-width: 768px) {
+@media (min-width: 451px) and (max-width: 768px) {
     
   .header {flex: 1 auto;}
 
