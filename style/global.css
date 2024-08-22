@@ -3,7 +3,7 @@
 :root {
     --primary-text-color: #fa0404;
     --body-font: 'Georgia', serif;
-    --body-font-size: 16px;
+    --body-font-size: 20px;
     --title-font: Georgia;
     --body-color: #313131;
     --link-color: rgb(68, 125, 190); 
@@ -110,7 +110,7 @@ a { color: var(--link-color); text-decoration: underline }
     
     .header {flex: 1 auto;}
 
-    .site{ font-size: var(--body-font-size); padding: 12px; padding-left: 12px; }
+    .site{ display: flex;  font-size: var(--body-font-size); padding: 12px; padding-left: 12px; }
 
     .navbar-link { font-size: var(--body-font-size); }
 
