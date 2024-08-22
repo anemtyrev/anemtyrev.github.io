@@ -25,48 +25,19 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
        min-height: 100%; display: flex; flex-direction: column; }
     
     /* cover */
-    /* .header { background: url('img/background.png') no-repeat center center;  */
-              /* height: 350px; width: 100%; }                                       size        */
+    .header { background: url('img/background.png') no-repeat center center; 
+              height: 350px; width: 100%; }                                       /* size        */
               
     /* site name */
-    /* .site { font-family: var(--title-font); color: var(--light-color);            /* text        */
-            /* font-size: 28px; */
-            /* position: absolute; padding: 4px; padding-left: 12px; } */ */
+    .site { font-family: var(--title-font); color: var(--light-color);            /* text        */
+            font-size: 28px;
+            position: absolute; padding: 4px; padding-left: 12px; }
     
     /* navigation bar */
-    /* .navbar { padding: 10px; text-align: right;                                   text        */
-              /* background: rgba(0,0,0,0.65); }                                   background  */
+    .navbar { padding: 10px; text-align: right;                                   /* text        */
+              background: rgba(0,0,0,0.65); }                                   /* background  */
 
-    .header {
-        background: url('img/background.png') no-repeat center center;
-        height: 350px;
-        width: 100%;
-        position: relative;
-    }
-    
-    .site {
-        font-family: var(--title-font);
-        color: var(--light-color);
-        font-size: 28px;
-        position: absolute;
-        top: 20px; /* Adjusted positioning */
-        padding: 4px;
-        padding-left: 12px;
-        z-index: 10; /* Ensure it's above the navbar */
-    }
-    
-    .navbar {
-        padding: 10px;
-        text-align: right;
-        background: rgba(0, 0, 0, 0.65);
-        position: absolute;
-        top: 0; /* Align with top */
-        right: 0; /* Align with right */
-        width: auto; /* Adjust width */
-        z-index: 5; /* Below site name */
-    }
-
-
+              
     /* links of the navbar */
     .navbar-link { text-decoration: none; color: var(--light-color);              /* text        */
                    font-size: 18px;
@@ -137,34 +108,9 @@ a { color: var(--link-color); text-decoration: underline }
 /* Smaller screens */
 @media (max-width: 1300px) {
     
-    /* .header {flex: 1 auto;} */
+    .header {flex: 1 auto;}
 
-    /* .site{ font-size: var(--body-font-size); padding: 12px; padding-left: 12px; } */
-
-    .header {
-      height: auto; /* Adjust height */
-      padding-bottom: 20px; /* Add padding for content */
-  }
-
-  .site {
-      position: relative;
-      font-size: 24px; /* Adjust font size */
-      padding-left: 10px;
-      text-align: center; /* Center text */
-  }
-
-  .navbar {
-      position: relative;
-      text-align: center; /* Center text */
-      margin-top: 20px; /* Add space below site name */
-      background: none; /* Remove background */
-      padding: 0; /* Remove padding */
-  }
-
-  .navbar a {
-      display: block; /* Stack links vertically */
-      padding: 10px 0; /* Add padding */
-  }
+    .site{ font-size: var(--body-font-size); padding: 12px; padding-left: 12px; }
 
     .navbar-link { font-size: var(--body-font-size); }
 
