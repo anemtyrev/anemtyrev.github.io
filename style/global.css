@@ -69,13 +69,13 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
     /* home - picture */
     .profile { float: left; margin-right: 100px; margin-top: 10px;               /* location    */
                margin-bottom: 40px; margin-right: 60px; flex: 0 0 auto;  
-               max-width: 450px; height: auto; 
+               max-width: 500px; height: auto; 
                border-radius: 5%;}                                                /* size        */
 
     /* home - textual block */
     .info-home { margin-top: 10px; margin-left: auto; float: left;               /* location    */
                  text-align: justify; flex: 1;                     
-                 min-width: 30%; max-width: 450px }                              /* size        */
+                 min-width: 30%; max-width: 500px }                              /* size        */
 
     /* in-page documents */
     .doc { margin: auto; margin-right: auto;                                     /* location    */
@@ -163,7 +163,7 @@ a { color: var(--link-color); text-decoration: underline }
 
 @media (min-width: 769px) and (max-width: 1600px) {
     
-  .main { max-width: 80%; } /* min-height: 60vh; */
+  .main { max-width: 70%; } /* min-height: 60vh; */
 
   .profile { flex-basis: 50%; max-width: 40%; max-height: 40%; }
   
