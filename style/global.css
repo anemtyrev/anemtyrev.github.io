@@ -163,11 +163,11 @@ a { color: var(--link-color); text-decoration: underline }
 
 @media (min-width: 769px) and (max-width: 1600px) {
     
-  .main { max-width: 70%; } /* min-height: 60vh; */
+  .main { max-width: 80%; } /* min-height: 60vh; */
 
   .profile { flex-basis: 50%; max-width: 40%; max-height: 40%; }
   
-  .info-home { flex-basis: 50%; max-width: 40%; }
+  .info-home { flex-basis: 50%; max-width: 50%; }
 
   :root {
     --body-font-size: 18px;
