@@ -106,11 +106,11 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
 a { color: var(--link-color); text-decoration: underline }
 
 /* Smaller screens */
-@media (max-width: 800px) {
+@media (max-width: 768px) {
     
     .header {flex: 1 auto;}
 
-    .site{ display: flex;  font-size: var(--body-font-size); padding: 12px; padding-left: 12px; }
+    .site{ display:none; font-size: var(--body-font-size); padding: 12px; padding-left: 12px; }
 
     .navbar-link { font-size: var(--body-font-size); }
 
@@ -134,7 +134,7 @@ a { color: var(--link-color); text-decoration: underline }
   }
 
   /* Tablet screens */
-  @media (min-width: 801px) and (max-width: 1600px) {
+  @media (min-width: 769px) and (max-width: 1600px) {
     
     .main { max-width: 80%; } /* min-height: 60vh; */
 
