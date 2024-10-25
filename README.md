@@ -1,6 +1,6 @@
-# Tulio Bouzas' Webpage
+# Aleksei Nemtyrev Webpage
 
-Welcome to the repository for Túlio Bouzas' professional website. This repository utilizes HTML, CSS, Markdown, and a small amount of JavaScript to embed specific elements within the webpages and to convert Markdown documents into HTML format. The directory structure of the repository is as follows:
+Welcome to the repository for Aleksei Nemtyrev professional website. This repository utilizes HTML, CSS, Markdown, and a small amount of JavaScript to embed specific elements within the webpages and to convert Markdown documents into HTML format. The directory structure of the repository is as follows:
 
 - **files:** This directory holds all PDF files.
     - **papers:** Specifically for research papers.
