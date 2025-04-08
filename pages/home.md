@@ -19,7 +19,7 @@ h1,h2,h3,h4,h5.h6 {
 </style>
 
 <!-- Actual text-->
-<div style="text-align: center;"> <h1>Welcome!</h1> </div>
+<div style="text-align: left;"> <h1>Welcome!</h1> </div>
 
 </br>
 
