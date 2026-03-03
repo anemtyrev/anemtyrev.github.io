@@ -1,91 +1,145 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="",5-Minute Craft (1080p)
+#EXTGRP:Finland
+https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",BBC Top Gear Finland (1080p)
+#EXTGRP:Finland
+https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Celeb Reality (720p)
+#EXTGRP:Finland
+https://d3453fcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NlbGViUmVhbGl0eUlOVExfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="",Come Dine With Me (1080p)
+#EXTGRP:Finland
+https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime360.us@SD",Crime 360 (720p)
+#EXTGRP:Finland
+https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="DontTellTheBride.us@SD",Don't Tell The Bride (1080p)
+#EXTGRP:Finland
+https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Ghost (720p)
+#EXTGRP:Finland
+https://9485e5d3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dob3N0SU5UTF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="",InTravel (1080p)
+#EXTGRP:Finland
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",NatureTime Finland (1080p)
+#EXTGRP:Finland
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Finland",Rakuten TV Action Movies Finland (1080p)
+#EXTGRP:Finland
+https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Finland",Rakuten TV Comedy Movies Finland (1080p)
+#EXTGRP:Finland
+https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Finland",Rakuten TV Drama Movies Finland (1080p)
+#EXTGRP:Finland
+https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Finland",Rakuten TV Family Movies Finland (1080p)
+#EXTGRP:Finland
+https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVNordicFilms.es@Finland",Rakuten TV Nordic Films (1080p)
+#EXTGRP:Finland
+https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
+#EXTINF:-1 tvg-id="",Rakuten TV Romance Movies Finland (1080p)
+#EXTGRP:Finland
+https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Finland",Rakuten TV Top Movies Finland (1080p)
+#EXTGRP:Finland
+https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
+#EXTINF:-1 tvg-id="TrueCrimeNow.us@SD",True Crime Now (1080p)
+#EXTGRP:Finland
+https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="",World of Love Island (1080p)
+#EXTGRP:Finland
+https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AVA.fi",AVA (720p)
-#EXTGRP:Finland
-https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 tvg-id="Hero.fi",Hero (Finland) (720p)
-#EXTGRP:Finland
-https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="HimlenTV7.fi",Himlen TV7 (720p)\
+#EXTINF:-1 tvg-id="HimlenTV7.fi",Himlen TV7 (720p)
 #EXTGRP:Finland
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="IskelmaTV.fi",IskelmäTV (720p)
+#EXTINF:-1 tvg-id="HimlenTV7.fi@SD",Himlen TV7 (720p)
 #EXTGRP:Finland
-https://mobiili.livetv.fi/memfs/f1819b9e-90da-408a-9a71-5c54e0cb5c33.m3u8
-#EXTINF:-1 tvg-id="Jim.fi",Jim (720p)
-#EXTGRP:Finland
-https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="JRTVJarviradio.fi",JRTV Järviradio (720p)
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JRTVJarviradio.fi@SD",JRTV Järviradio (720p)
 #EXTGRP:Finland
 https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
-#EXTINF:-1 tvg-id="Liv.fi",Liv (720p)
+#EXTINF:-1 tvg-id="MTV3.fi@SD" http-referrer="http://195.222.7.17:8002/",MTV3 (576p)
 #EXTGRP:Finland
-https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="MTV3.fi",MTV3 (720p)
-#EXTGRP:Finland
-https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTVLCOPT:http-referrer=http://195.222.7.17:8002/
 http://195.222.7.17:8002/ch352
-#EXTINF:-1 tvg-id="MTVUutiset.fi",MTV Uutiset (720p)
+#EXTINF:-1 tvg-id="MTVUutiset.fi@SD",MTV Uutiset (720p)
 #EXTGRP:Finland
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-#EXTINF:-1 tvg-id="NarTV.fi",NärTV (360p)
+#EXTINF:-1 tvg-id="NarTV.fi@SD",NärTV (360p)
 #EXTGRP:Finland
 https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NavahangTV.fi",Navahang TV (720p)
+#EXTINF:-1 tvg-id="NavahangTV.fi@SD",Navahang TV (720p)
 #EXTGRP:Finland
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Nelonen.fi",Nelonen (720p)
-#EXTGRP:Finland
-https://live-fi.tvkaista.net/nelonen/live.m3u8
-#EXTINF:-1 tvg-id="NopolaNews.fi",Nopola News (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="NopolaNews.fi@SD",Nopola News (1080p) [Not 24/7]
 #EXTGRP:Finland
 https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OnniTV.fi",Onni TV (720p)
+#EXTINF:-1 tvg-id="OnniTV.fi@SD",Onni TV (720p)
 #EXTGRP:Finland
 https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sub.fi",Sub (720p)
-#EXTGRP:Finland
-https://live-fi.tvkaista.net/sub/live.m3u8
-#EXTINF:-1 tvg-id="TaevasTV7.fi",Taevas TV7 (720p)
+#EXTINF:-1 tvg-id="TaevasTV7.fi@SD",Taevas TV7 (720p)
 #EXTGRP:Finland
 https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TaivasTV7.fi",Taivas TV7 (720p)
+#EXTINF:-1 tvg-id="TaivasTV7.fi@SD",Taivas TV7 (720p)
 #EXTGRP:Finland
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="YleTV1.fi",YLE TV 1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="YleTV1.fi@SD",YLE TV 1 (1080p) [Geo-blocked]
+#EXTGRP:Finland
+https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
+#EXTINF:-1 tvg-id="YleTV1.fi@SD",YLE TV 1 (1080p) [Not 24/7]
 #EXTGRP:Finland
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
-#EXTINF:-1 tvg-id="YleTV2.fi",YLE TV 2 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="YleTV2.fi@SD",YLE TV 2 (1080p) [Geo-blocked]
+#EXTGRP:Finland
+https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
+#EXTINF:-1 tvg-id="YleTV2.fi@SD",YLE TV 2 (1080p) [Not 24/7]
 #EXTGRP:Finland
 https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
-#EXTINF:-1 tvg-id="YleTeemaFem.fi",YLE TV Teema & Fem (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="YleTeemaFem.fi@SD",YLE TV Teema & Fem (1080p) [Geo-blocked]
+#EXTGRP:Finland
+https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
+#EXTINF:-1 tvg-id="YleTeemaFem.fi@SD",YLE TV Teema & Fem (1080p) [Not 24/7]
 #EXTGRP:Finland
 https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
-#EXTINF:-1 tvg-id="YleX.fi",YleX Studio Live (720p)
+#EXTINF:-1 tvg-id="YleX.fi@SD",YleX Studio Live (720p)
 #EXTGRP:Finland
 https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
-#EXTINF:-1 tvg-id="FilmRiseSciFi.us",FilmRise Sci-Fi Finland
+
+#EXTINF:-1 tvg-id="FailArmy.us@US",Failarmy International (720p)
 #EXTGRP:Finland
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.fi",Rakuten TV Draama
+https://failarmy-international-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GoUSATV.us@SD",Go USA TV (720p)
 #EXTGRP:Finland
-https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.fi",Rakuten TV Huippuelokuvat
+https://brandusa-gousa-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD",Grjngo Western Movies (720p)
 #EXTGRP:Finland
-https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.fi",Rakuten TV Komedia
+https://amogonetworx-grjngo-3-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HomesUnderHammer.us@UK",Homes Under The Hammer (720p)
 #EXTGRP:Finland
-https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.fi",Rakuten TV Perhe
+https://all3media-homes-under-the-hammer-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD",Just For Laughs Gags (720p)
 #EXTGRP:Finland
-https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVRakutenStories.fi",Rakuten TV Rakuten Stories
+https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Mechplus (720p)
 #EXTGRP:Finland
-https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.fi",Rakuten TV Toiminta
+https://mechtvltd-mechplus-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD",People are Awesome (720p)
 #EXTGRP:Finland
-https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
+https://jukin-peopleareawesome-2-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.pl@SD",Strongman Champions League (720p)
+#EXTGRP:Finland
+https://rightsboosterltd-scl-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us@US",The Pet Collective International (720p)
+#EXTGRP:Finland
+https://the-pet-collective-international-fi.samsung.wurl.tv/playlist.m3u8
+
+
 
 #EXTINF:0 tvg-rec="0",beIN Junior
 #EXTGRP:Europe
