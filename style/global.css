@@ -121,7 +121,7 @@ a { color: var(--link-color); text-decoration: underline }
     .main{ width: 70%; flex-direction: column; }  /* min-height: 135vh; */
     
     .profile,
-    .info-home { text-align: left; }
+    .info-home { flex-basis: 100%; max-width: 100%; text-align: left; }
 
     .footer-bar { width: 90%; grid-template-columns: 1fr 230px 1fr; }
 
@@ -165,10 +165,9 @@ a { color: var(--link-color); text-decoration: underline }
     
   .main { max-width: 80%; } /* min-height: 60vh; */
 
-.profile { max-width: 300px; margin-top: 100px; }
+.profile { max-width: 300px; margin-top: 110px; }
   
-  .info-home { flex-basis: 50%; max-width: 50%; }
-
+.info-home { flex-basis: 50%; max-width: 50%; margin-top: -10px; }
   :root {
     --body-font-size: 18px;
 }
@@ -179,8 +178,7 @@ a { color: var(--link-color); text-decoration: underline }
     
     .main{ max-width: 70%; } /* min-height: 80vh; */
     
-    .profile { max-width: 300px; margin-top: 100px; }
+    .profile { max-width: 300px; margin-top: 110px; }
     
-    .info-home { flex-basis: 50%; 
-                 max-width: 50%; }
+.info-home { flex-basis: 50%; max-width: 50%; margin-top: -10px; }
 }
