@@ -121,7 +121,7 @@ a { color: var(--link-color); text-decoration: underline }
     .main{ width: 70%; flex-direction: column; }  /* min-height: 135vh; */
     
     .profile,
-    .info-home { flex-basis: 100%; max-width: 100%;}
+    .info-home { text-align: left; }
 
     .footer-bar { width: 90%; grid-template-columns: 1fr 230px 1fr; }
 
