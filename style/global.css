@@ -67,10 +67,10 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
     .info { margin-top: 10px; text-align: justify; width: 100%; }                /* location    */
 
     /* home - picture */
-    .profile { float: left; margin-right: 100px; margin-top: 10px;               /* location    */
-               margin-bottom: 40px; margin-right: 60px; flex: 0 0 auto;  
-               max-width: 300px; height: auto; 
-               border-radius: 5%;}                                                /* size        */
+    .profile { float: left; margin-top: 50px;
+            margin-bottom: 40px; margin-right: 60px; flex: 0 0 auto;  
+            max-width: 300px; height: auto; 
+            border-radius: 5%;}
 
     /* home - textual block */
     .info-home { margin-top: 10px; margin-left: auto; float: left;               /* location    */
@@ -134,7 +134,7 @@ a { color: var(--link-color); text-decoration: underline }
   }
 
 /* Smaller screens */
-@media (min-width: 451px) and (max-width: 768px) {
+@media (min-width: 451px) and (max-width: 899px) {
     
   .header {flex: 1 auto;}
 
@@ -161,7 +161,7 @@ a { color: var(--link-color); text-decoration: underline }
   }
 }
 
-@media (min-width: 769px) and (max-width: 1600px) {
+@media (min-width: 900px) and (max-width: 1600px) {
     
   .main { max-width: 80%; } /* min-height: 60vh; */
 
