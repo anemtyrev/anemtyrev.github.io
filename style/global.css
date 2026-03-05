@@ -67,7 +67,7 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
     .info { margin-top: 10px; text-align: justify; width: 100%; }                /* location    */
 
     /* home - picture */
-    .profile { float: left; margin-top: 50px;
+    .profile { float: left; margin-top: 100px;
             margin-bottom: 40px; margin-right: 60px; flex: 0 0 auto;  
             max-width: 300px; height: auto; 
             border-radius: 5%;}
