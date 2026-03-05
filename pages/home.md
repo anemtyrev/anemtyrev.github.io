@@ -23,8 +23,8 @@ h1,h2,h3,h4,h5.h6 {
 
 </br>
 
-My name is Aleksei Nemtyrev, and I am a PhD Candidate in Economics at the Econometrics and Operations Research department at Tilburg University. My academic interests are in macroeconomics, macroeconometrics and monetary economics. My supervisors are <a href="http://www.jyrc.org">Dr. Jeffrey Campbell</a>, 
-<a href="https://sites.google.com/site/otiliaboldea/" >Dr. Otilia Boldea</a> and <a href="https://sites.google.com/view/dajanaxhani/home" >Dr. Dajana Xhani</a>.
+My name is Aleksei Nemtyrev, and I am a PhD Candidate in Economics at the Econometrics and Operations Research department at Tilburg University. My academic interests are in macroeconomics, macroeconometrics and monetary economics. My supervisors are <a href="http://www.jyrc.org">Dr. Jeffrey Campbell</a> and 
+<a href="https://sites.google.com/site/otiliaboldea/" >Dr. Otilia Boldea</a>.
 
 <br /><br />
 

@@ -69,7 +69,7 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
     /* home - picture */
     .profile { float: left; margin-right: 100px; margin-top: 10px;               /* location    */
                margin-bottom: 40px; margin-right: 60px; flex: 0 0 auto;  
-               max-width: 500px; height: auto; 
+               max-width: 300px; height: auto; 
                border-radius: 5%;}                                                /* size        */
 
     /* home - textual block */
