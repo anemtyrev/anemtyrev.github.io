@@ -165,7 +165,7 @@ a { color: var(--link-color); text-decoration: underline }
     
   .main { max-width: 80%; } /* min-height: 60vh; */
 
-  .profile { flex-basis: 50%; max-width: 40%; max-height: 40%; }
+  .profile { max-width: 300px; }
   
   .info-home { flex-basis: 50%; max-width: 50%; }
 
@@ -177,11 +177,9 @@ a { color: var(--link-color); text-decoration: underline }
 /* Bigger screens */
 @media (min-width: 1601px) {
     
-    .main{ max-width: 70%; ; } /* min-height: 80vh; */
+    .main{ max-width: 70%; } /* min-height: 80vh; */
     
-    .profile { flex-basis: 50%; 
-               max-width: 40%;
-               max-height: 50%; }
+    .profile { max-width: 300px; }
     
     .info-home { flex-basis: 50%; 
                  max-width: 50%; }
