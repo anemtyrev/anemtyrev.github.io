@@ -11,7 +11,7 @@
     /* --theme-color-dark: rgb(111, 146, 135); */
     /*--theme-color: rgb(228, 181, 156);
     --theme-color-dark: rgb(66, 34, 7);*/
-    --theme-color: rgb(55, 75, 110);
+    --theme-color: hsl(219, 39%, 37%);
     --theme-color-dark: rgb(35, 50, 75);
 
     
@@ -50,7 +50,7 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
                    padding: 4px; }                                                /* location    */
 
     /* indicator of current section */
-    .navbar-active { border-bottom: 7px solid #BE6432; }
+    .navbar-active { border-bottom: 7px solid var(--theme-color); }
 
     /* sub-bar */
     .line {background: var(--theme-color);                           
