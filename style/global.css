@@ -11,8 +11,8 @@
     /* --theme-color-dark: rgb(111, 146, 135); */
     /*--theme-color: rgb(228, 181, 156);
     --theme-color-dark: rgb(66, 34, 7);*/
-    --theme-color: rgb(177, 126, 2);
-    --theme-color-dark: rgb(120, 85, 1) ;
+    --theme-color: rgb(55, 75, 110);
+    --theme-color-dark: rgb(35, 50, 75);
 
     
     --light-color: rgba(239,234,222,1);
@@ -57,11 +57,11 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
             height: 10px ; width: 100%; }   
 
     /* title of the page */
-    .title { font-size: 80px; color: rgba(239,234,222,1); font-family: var(--title-font);      /* font        */
+    .title { font-size: 80px; color: var(--light-color); font-family: var(--title-font);      /* font        */
              margin-top: 70px; text-align: center; }                              /* location    */
     
     /* subtitle of the page */
-    .subtitle { font-size: 32px; color:rgba(239,234,222,1); font-family: var(--title-font);   /* font        */
+    .subtitle { font-size: 32px; color:var(--light-color); font-family: var(--title-font);   /* font        */
                 margin-top: 10px; text-align: center; }                           /* location    */
 
     /* main block */
