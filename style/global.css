@@ -57,11 +57,11 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
             height: 10px ; width: 100%; }   
 
     /* title of the page */
-    .title { font-size: 80px; color: #fff; font-family: var(--title-font);      /* font        */
+    .title { font-size: 80px; color: rgba(239,234,222,1); font-family: var(--title-font);      /* font        */
              margin-top: 70px; text-align: center; }                              /* location    */
     
     /* subtitle of the page */
-    .subtitle { font-size: 32px; color: #fff; font-family: var(--title-font);   /* font        */
+    .subtitle { font-size: 32px; color:rgba(239,234,222,1); font-family: var(--title-font);   /* font        */
                 margin-top: 10px; text-align: center; }                           /* location    */
 
     /* main block */
