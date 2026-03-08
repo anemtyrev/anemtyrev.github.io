@@ -50,7 +50,7 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
                    padding: 4px; }                                                /* location    */
 
     /* indicator of current section */
-    .navbar-active { border-bottom: 7px solid var(--theme-color); }
+    .navbar-active { border-bottom: 7px solid #BE6432; }
 
     /* sub-bar */
     .line {background: var(--theme-color);                           
