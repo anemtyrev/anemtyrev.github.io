@@ -31,7 +31,7 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
     /* cover */
 .header {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
-              url('img/background2.jpg') no-repeat center center;   background-size: cover;
+              url('img/background2.jpg') no-repeat center center;  
   height: 350px;  width: 100%; }                                /* size        */
               
     /* site name */
@@ -57,7 +57,7 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
             height: 10px ; width: 100%; }   
 
     /* title of the page */
-    .title { font-size: 80px; color: #000; font-family: var(--title-font);      /* font        */
+    .title { font-size: 80px; color: #fff; font-family: var(--title-font);      /* font        */
              margin-top: 70px; text-align: center; }                              /* location    */
     
     /* subtitle of the page */
