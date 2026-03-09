@@ -37,13 +37,15 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
   height: 350px;  width: 100%; }                                /* size        */
               
     /* site name */
-    .site { font-family: var(--title-font); color: var(--light-color);            /* text        */
-            font-size: 28px;
-            position: absolute; padding: 4px; padding-left: 12px; }
+    .site { font-family: var(--title-font); color: var(--light-color);
+        font-size: 28px;
+        position: fixed;
+        z-index: 200;
+        padding: 4px; padding-left: 12px; }
     
     /* navigation bar */
     .navbar { padding: 10px; text-align: right;
-              background: rgba(0,0,0,0.65);
+              background: rgba(0,0,0);
               position: fixed;
               top: 0;
               width: 100%;
