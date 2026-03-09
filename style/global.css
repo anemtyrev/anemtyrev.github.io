@@ -45,7 +45,7 @@ body { font-family: var(--body-font); font-size: var(--body-font-size);         
     
     /* navigation bar */
     .navbar { padding: 10px; text-align: right;
-              background: rgba(0,0,0);
+              background: rgba(0,0,0,0.65);
               position: fixed;
               top: 0;
               width: 100%;
