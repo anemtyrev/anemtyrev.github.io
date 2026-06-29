@@ -68,6 +68,7 @@ h1, h2, h3, h4, h5, h6 {
       <div class="abstract-text">Local projection (LP) and structural vector autoregression (SVAR) are commonly employed to estimate dynamic causal effects of macroeconomic policies at multiple horizons. With enough lags as controls, LP estimators have little bias but their variance can increase with the horizon due to accumulating additional shocks. Because they typically employ fewer lags or suffer from local misspecification, SVAR estimators typically incur higher bias, but their variance decreases with the horizon due to exponentiation. We propose to target the LP estimators towards their SVAR counterparts - constructed with fewer lags than LP at each horizon - to reduce their variance at the cost of incurring some bias. The resulting targeted LP estimator is a linear combination of the LP and SVAR estimators. We propose choosing this linear combination optimally to minimize the mean-squared error of the new estimator. Our simulations show that, under a locally misspecified SVAR model, targeting substantially reduces the LP variance at longer horizons while maintaining near-nominal coverage in small samples when a double bootstrap is employed.</div>
     </details>
     <a href="https://arxiv.org/abs/2603.00248">Paper</a>
+    <a href="https://github.com/anemtyrev/Targeted_Local_Projections">Replication file</a>
   </div>
 </div>
 
