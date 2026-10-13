@@ -87,5 +87,5 @@ h1, h2, h3, h4, h5, h6 {
 </div>
 
 <div class="paper-entry">
-  <span class="paper-title"><strong>DSGE Identification and Estimation</strong> [with Jeffrey Campbell] </span>
+  <span class="paper-title"><strong>DSGE Identification and Testing</strong> [with Jeffrey Campbell] </span>
 </div>
